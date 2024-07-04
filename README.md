@@ -3,7 +3,7 @@
 This package contains [VLora](https://www.vioneta.com/) nodes for
 using with [Node-RED](https://nodered.org/).
 
-![example flow](example_flow.png)
+![example flow](https://raw.githubusercontent.com/Vioneta/node-red-contrib-vlora/main/example_flow.png)
 
 ## Installation
 
