@@ -3,6 +3,13 @@
   "description": "VLora VFlow nodes",
   "version": "0.2.0",
   "license": "MIT",
+  "keywords": [
+    "node-red",
+    "vioneta-agro",
+    "vioneta agro",
+    "agri automation",
+    "lora"
+  ],
   "dependencies": {
     "@chirpstack/chirpstack-api": "^4.1.1",
     "@grpc/grpc-js": "^1.8.0"
