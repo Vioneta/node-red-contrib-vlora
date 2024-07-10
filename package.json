@@ -1,7 +1,7 @@
 {
   "name": "node-red-contrib-vlora",
   "description": "VLora VFlow nodes",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "license": "MIT",
   "keywords": [
     "node-red",
